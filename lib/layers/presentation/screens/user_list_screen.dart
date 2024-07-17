@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:impacteers/layers/data/models/user_details.dart';
-import 'package:impacteers/layers/domain/repo_abstract/user_details_repo.dart';
 import 'package:impacteers/layers/presentation/bloc/ui_state_management/ui_state_management_bloc.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:impacteers/layers/presentation/screens/user_details_screen.dart';

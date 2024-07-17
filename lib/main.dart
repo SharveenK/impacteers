@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:impacteers/layers/domain/repo_imp/user_details_imp_repo.dart';
 import 'package:impacteers/layers/presentation/screens/user_list_screen.dart';
 
 void main() {
